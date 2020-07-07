@@ -1,2 +1,31 @@
 
 .DS_Store
+TensorFlow Deployment/Course 2 - TensorFlow Lite/Week 2/Examples/Android Apps/image_classification/app/src/androidTest/java/com/google/tflite/imageclassification/sample/ExampleInstrumentedTest.java
+TensorFlow Deployment/Course 2 - TensorFlow Lite/Week 2/Examples/Android Apps/image_classification/app/src/main/java/com/google/tflite/imageclassification/sample/camera/ActivityExtensions.kt
+TensorFlow Deployment/Course 2 - TensorFlow Lite/Week 2/Examples/Android Apps/image_classification/app/src/main/java/com/google/tflite/imageclassification/sample/camera/AutoFitTextureView.kt
+TensorFlow Deployment/Course 2 - TensorFlow Lite/Week 2/Examples/Android Apps/image_classification/app/src/main/java/com/google/tflite/imageclassification/sample/camera/Camera2BasicFragment.kt
+TensorFlow Deployment/Course 2 - TensorFlow Lite/Week 2/Examples/Android Apps/image_classification/app/src/main/java/com/google/tflite/imageclassification/sample/camera/CameraActivity.kt
+TensorFlow Deployment/Course 2 - TensorFlow Lite/Week 2/Examples/Android Apps/image_classification/app/src/main/java/com/google/tflite/imageclassification/sample/camera/CompareSizesByArea.kt
+TensorFlow Deployment/Course 2 - TensorFlow Lite/Week 2/Examples/Android Apps/image_classification/app/src/main/java/com/google/tflite/imageclassification/sample/camera/ConfirmationDialog.kt
+TensorFlow Deployment/Course 2 - TensorFlow Lite/Week 2/Examples/Android Apps/object_detection/app/src/main/java/com/google/tflite/objectdetection/tflite/TFLiteObjectDetectionAPIModel.kt
+TensorFlow Deployment/Course 2 - TensorFlow Lite/Week 3/Examples/iOS Apps/cats_vs_dogs/CatVsDogClassifierSample.xcodeproj/xcuserdata/lmoroney.xcuserdatad/xcschemes/xcschememanagement.plist
+TensorFlow Deployment/Course 2 - TensorFlow Lite/Week 3/Examples/iOS Apps/cats_vs_dogs/CatVsDogClassifierSample.xcworkspace/xcuserdata/lmoroney.xcuserdatad/UserInterfaceState.xcuserstate
+TensorFlow Deployment/Course 2 - TensorFlow Lite/Week 3/Examples/iOS Apps/cats_vs_dogs/Pods/Pods.xcodeproj/xcuserdata/lmoroney.xcuserdatad/xcschemes/Pods-CatVsDogClassifierSample.xcscheme
+TensorFlow Deployment/Course 2 - TensorFlow Lite/Week 3/Examples/iOS Apps/cats_vs_dogs/Pods/Target Support Files/Pods-CatVsDogClassifierSample/Pods-CatVsDogClassifierSample-acknowledgements.markdown
+TensorFlow Deployment/Course 2 - TensorFlow Lite/Week 3/Examples/iOS Apps/cats_vs_dogs/Pods/Target Support Files/Pods-CatVsDogClassifierSample/Pods-CatVsDogClassifierSample-acknowledgements.plist
+TensorFlow Deployment/Course 2 - TensorFlow Lite/Week 3/Examples/iOS Apps/cats_vs_dogs/Pods/Target Support Files/Pods-CatVsDogClassifierSample/Pods-CatVsDogClassifierSample.debug.xcconfig
+TensorFlow Deployment/Course 2 - TensorFlow Lite/Week 3/Examples/iOS Apps/cats_vs_dogs/Pods/Target Support Files/Pods-CatVsDogClassifierSample/Pods-CatVsDogClassifierSample.release.xcconfig
+TensorFlow Deployment/Course 2 - TensorFlow Lite/Week 3/Examples/iOS Apps/image_classification/ImageClassification.xcodeproj/xcuserdata/lmoroney.xcuserdatad/xcschemes/xcschememanagement.plist
+TensorFlow Deployment/Course 2 - TensorFlow Lite/Week 3/Examples/iOS Apps/image_classification/ImageClassification.xcworkspace/xcuserdata/lmoroney.xcuserdatad/UserInterfaceState.xcuserstate
+TensorFlow Deployment/Course 2 - TensorFlow Lite/Week 3/Examples/iOS Apps/image_classification/ImageClassification.xcworkspace/xcuserdata/lmoroney.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist
+TensorFlow Deployment/Course 2 - TensorFlow Lite/Week 3/Examples/iOS Apps/image_classification/Pods/Pods.xcodeproj/xcuserdata/lmoroney.xcuserdatad/xcschemes/Pods-ImageClassification.xcscheme
+TensorFlow Deployment/Course 2 - TensorFlow Lite/Week 3/Examples/iOS Apps/image_classification/Pods/Pods.xcodeproj/xcuserdata/lmoroney.xcuserdatad/xcschemes/TensorFlowLiteSwift.xcscheme
+TensorFlow Deployment/Course 2 - TensorFlow Lite/Week 3/Examples/iOS Apps/image_classification/Pods/Target Support Files/Pods-ImageClassification/Pods-ImageClassification-acknowledgements.markdown
+TensorFlow Deployment/Course 2 - TensorFlow Lite/Week 3/Examples/iOS Apps/image_classification/Pods/Target Support Files/Pods-ImageClassification/Pods-ImageClassification-acknowledgements.plist
+TensorFlow Deployment/Course 2 - TensorFlow Lite/Week 3/Examples/iOS Apps/image_classification/Pods/Target Support Files/Pods-ImageClassification/Pods-ImageClassification.debug.xcconfig
+TensorFlow Deployment/Course 2 - TensorFlow Lite/Week 3/Examples/iOS Apps/image_classification/Pods/Target Support Files/Pods-ImageClassification/Pods-ImageClassification.release.xcconfig
+TensorFlow Deployment/Course 2 - TensorFlow Lite/Week 3/Examples/iOS Apps/image_classification/Pods/TensorFlowLiteSwift/tensorflow/lite/experimental/swift/Sources/InterpreterError.swift
+TensorFlow Deployment/Course 2 - TensorFlow Lite/Week 3/Examples/iOS Apps/image_classification/Pods/TensorFlowLiteSwift/tensorflow/lite/experimental/swift/Sources/InterpreterOptions.swift
+TensorFlow Deployment/Course 2 - TensorFlow Lite/Week 3/Examples/iOS Apps/image_classification/Pods/TensorFlowLiteSwift/tensorflow/lite/experimental/swift/Sources/QuantizationParameters.swift
+TensorFlow Deployment/Course 2 - TensorFlow Lite/Week 3/Examples/iOS Apps/object_detection/ObjectDetection.xcworkspace/xcuserdata/lmoroney.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist
+TensorFlow Deployment/Course 2 - TensorFlow Lite/Week 3/Examples/iOS Apps/object_detection/Pods/TensorFlowLiteSwift/tensorflow/lite/experimental/swift/Sources/QuantizationParameters.swift
