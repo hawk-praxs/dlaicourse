@@ -29,3 +29,4 @@ TensorFlow Deployment/Course 2 - TensorFlow Lite/Week 3/Examples/iOS Apps/image_
 TensorFlow Deployment/Course 2 - TensorFlow Lite/Week 3/Examples/iOS Apps/image_classification/Pods/TensorFlowLiteSwift/tensorflow/lite/experimental/swift/Sources/QuantizationParameters.swift
 TensorFlow Deployment/Course 2 - TensorFlow Lite/Week 3/Examples/iOS Apps/object_detection/ObjectDetection.xcworkspace/xcuserdata/lmoroney.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist
 TensorFlow Deployment/Course 2 - TensorFlow Lite/Week 3/Examples/iOS Apps/object_detection/Pods/TensorFlowLiteSwift/tensorflow/lite/experimental/swift/Sources/QuantizationParameters.swift
+*.java
