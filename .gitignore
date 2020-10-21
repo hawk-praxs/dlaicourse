@@ -1,5 +1,6 @@
 
 .DS_Store
+<<<<<<< HEAD
 TensorFlow Deployment/Course 2 - TensorFlow Lite/Week 2/Examples/Android Apps/image_classification/app/src/androidTest/java/com/google/tflite/imageclassification/sample/ExampleInstrumentedTest.java
 TensorFlow Deployment/Course 2 - TensorFlow Lite/Week 2/Examples/Android Apps/image_classification/app/src/main/java/com/google/tflite/imageclassification/sample/camera/ActivityExtensions.kt
 TensorFlow Deployment/Course 2 - TensorFlow Lite/Week 2/Examples/Android Apps/image_classification/app/src/main/java/com/google/tflite/imageclassification/sample/camera/AutoFitTextureView.kt
@@ -30,3 +31,5 @@ TensorFlow Deployment/Course 2 - TensorFlow Lite/Week 3/Examples/iOS Apps/image_
 TensorFlow Deployment/Course 2 - TensorFlow Lite/Week 3/Examples/iOS Apps/object_detection/ObjectDetection.xcworkspace/xcuserdata/lmoroney.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist
 TensorFlow Deployment/Course 2 - TensorFlow Lite/Week 3/Examples/iOS Apps/object_detection/Pods/TensorFlowLiteSwift/tensorflow/lite/experimental/swift/Sources/QuantizationParameters.swift
 *.java
+=======
+>>>>>>> parent of 1cd125e... Forked and cleaned repo
